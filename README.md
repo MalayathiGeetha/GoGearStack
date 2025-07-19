@@ -33,23 +33,31 @@ GoGEARSTACK is a full-stack Car Rental Web Application built with the MERN stack
 Install dependencies:npm install
 
 Create a .env file: env
+
+
 PORT=5000
+
+
 MONGO_URI=your_mongo_db_connection_string
+
+
 JWT_SECRET=your_jwt_secret_key
+
 
 Run the backend server:npm start
 
 💻 Frontend Setup
 
 Navigate to the frontend folder:cd ../frontend
+
 Install dependencies:npm install
+
 Start the React development server:npm start
+
 Visit http://localhost:3000 in your browser.
 
 📁 Folder Structure
-pgsql
-Copy
-Edit
+
 GoGEARSTACK/
 ├── backend/
 │   ├── controllers/
@@ -66,6 +74,8 @@ GoGEARSTACK/
 │   │   ├── services/
 │   │   └── App.js
 ├── README.md
+
+
 🚀 Usage
 Register or Login as a user
 
@@ -80,9 +90,7 @@ Admins can login to manage all cars and bookings
 👩‍💻 Contributing
 Contributions are welcome!
 
-bash
-Copy
-Edit
+
 # Fork and clone the repository
 git clone https://github.com/yourusername/GoGEARSTACK.git
 
