@@ -2,6 +2,8 @@
 
 GoGEARSTACK is a full-stack Car Rental Web Application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a platform for users to search for available cars, book rentals, and manage their reservations. Admins can add, update, and delete car listings.
 
+
+
 ## 🌟 Features
 
 - User authentication and authorization (JWT)
@@ -19,6 +21,12 @@ GoGEARSTACK is a full-stack Car Rental Web Application built with the MERN stack
 - **Authentication**: JWT (JSON Web Tokens)
 - **Package Manager**: npm
 - **Environment Variables**: dotenv
+
+---
+
+## 🌐 Live Demo
+
+👉 [Visit the Live Car Rental App](https://car-rental-frontend-one-mu.vercel.app/)
 
 ---
 
